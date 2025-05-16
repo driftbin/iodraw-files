@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="eHBMIgYKwNoicw80gMCx-1" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;i&gt;个人成长平台&lt;/i&gt;&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;gradientColor=none;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="200" y="340" width="300" height="60" as="geometry" />
+          <mxGeometry x="210" y="340" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-12" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="eHBMIgYKwNoicw80gMCx-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -21,8 +21,8 @@
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-14" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="520" as="sourcePoint" />
-            <mxPoint x="30" y="470" as="targetPoint" />
+            <mxPoint y="520" as="sourcePoint" />
+            <mxPoint y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-15" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
@@ -50,7 +50,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-19" value="个人信息" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;fontFamily=Garamond;fontSize=18;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="520" width="120" height="50" as="geometry" />
+          <mxGeometry x="-60" y="520" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-20" value="技能追踪" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;fontFamily=Garamond;fontSize=18;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="140" y="520" width="120" height="50" as="geometry" />
@@ -66,33 +66,33 @@
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-24" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="600" as="sourcePoint" />
-            <mxPoint x="70" y="600" as="targetPoint" />
+            <mxPoint x="-40" y="600" as="sourcePoint" />
+            <mxPoint x="40" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-25" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;entryX=0.5;entryY=1;entryPerimeter=0;" parent="1" target="eHBMIgYKwNoicw80gMCx-19" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="30" y="600" as="sourcePoint" />
-            <mxPoint x="50" y="610" as="targetPoint" />
+            <mxPoint y="600" as="sourcePoint" />
+            <mxPoint x="20" y="610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-26" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-10" y="620" as="sourcePoint" />
-            <mxPoint x="-10" y="600" as="targetPoint" />
+            <mxPoint x="-40" y="620" as="sourcePoint" />
+            <mxPoint x="-40" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-27" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="70" y="620" as="sourcePoint" />
-            <mxPoint x="70" y="600" as="targetPoint" />
+            <mxPoint x="40" y="620" as="sourcePoint" />
+            <mxPoint x="40" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-28" value="登&lt;div&gt;录&lt;/div&gt;&lt;div&gt;注&lt;/div&gt;&lt;div&gt;册&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="-30" y="620" width="40" height="100" as="geometry" />
+          <mxGeometry x="-60" y="620" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-29" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;详&lt;/div&gt;&lt;div&gt;情&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
-          <mxGeometry x="50" y="620" width="40" height="100" as="geometry" />
+          <mxGeometry x="20" y="620" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-30" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;entryX=0.5;entryY=1;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
