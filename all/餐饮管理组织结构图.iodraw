@@ -193,7 +193,7 @@
         <mxCell id="eHBMIgYKwNoicw80gMCx-49" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="620" as="sourcePoint" />
-            <mxPoint x="610" y="600" as="targetPoint" />
+            <mxPoint x="570" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-50" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
@@ -252,6 +252,12 @@
         </mxCell>
         <mxCell id="kjqXvpa2zYBqlAdR8xxh-1" value="社&lt;div&gt;交&lt;/div&gt;&lt;div&gt;建&lt;div&gt;&lt;div&gt;议&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="600" y="620" width="40" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="kjqXvpa2zYBqlAdR8xxh-2" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="630" as="sourcePoint" />
+            <mxPoint x="600" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
