@@ -61,7 +61,7 @@
         <mxCell id="eHBMIgYKwNoicw80gMCx-22" value="人际关系" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;fontFamily=Garamond;fontSize=18;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="460" y="520" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="eHBMIgYKwNoicw80gMCx-23" value="物流部" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;fontFamily=Garamond;fontSize=18;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
+        <mxCell id="eHBMIgYKwNoicw80gMCx-23" value="职业发展" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=none;strokeWidth=2;fillColor=#6666FF;fontFamily=Garamond;fontSize=18;fontColor=#FFFFFF;align=center;" parent="1" vertex="1">
           <mxGeometry x="620" y="520" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-24" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
@@ -88,7 +88,7 @@
             <mxPoint x="70" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eHBMIgYKwNoicw80gMCx-28" value="市&lt;div&gt;场&lt;/div&gt;&lt;div&gt;开&lt;/div&gt;&lt;div&gt;发&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+        <mxCell id="eHBMIgYKwNoicw80gMCx-28" value="登&lt;div&gt;录&lt;/div&gt;&lt;div&gt;注&lt;/div&gt;&lt;div&gt;册&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="-30" y="620" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-29" value="售&lt;div&gt;后&lt;/div&gt;&lt;div&gt;服&lt;/div&gt;&lt;div&gt;务&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
