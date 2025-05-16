@@ -215,6 +215,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="820" y="615" as="sourcePoint" />
             <mxPoint x="819.8571428571431" y="585" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="600" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="eHBMIgYKwNoicw80gMCx-55" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" edge="1">
@@ -264,8 +267,8 @@
         </mxCell>
         <mxCell id="kjqXvpa2zYBqlAdR8xxh-6" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="880" y="645" as="sourcePoint" />
-            <mxPoint x="880" y="625" as="targetPoint" />
+            <mxPoint x="919.85" y="635" as="sourcePoint" />
+            <mxPoint x="919.85" y="615" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
