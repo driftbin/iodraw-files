@@ -247,7 +247,7 @@
         <mxCell id="eHBMIgYKwNoicw80gMCx-60" value="技&lt;div&gt;能&lt;/div&gt;&lt;div&gt;匹&lt;/div&gt;&lt;div&gt;配&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="800" y="635" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="eHBMIgYKwNoicw80gMCx-61" value="仓&lt;div&gt;储&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
+        <mxCell id="eHBMIgYKwNoicw80gMCx-61" value="职&lt;div&gt;场&lt;/div&gt;&lt;div&gt;人&lt;/div&gt;&lt;div&gt;脉&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" parent="1" vertex="1">
           <mxGeometry x="850" y="635" width="40" height="100" as="geometry" />
         </mxCell>
         <mxCell id="kjqXvpa2zYBqlAdR8xxh-1" value="社&lt;div&gt;交&lt;/div&gt;&lt;div&gt;建&lt;div&gt;&lt;div&gt;议&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
@@ -257,6 +257,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="580" y="630" as="sourcePoint" />
             <mxPoint x="620" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kjqXvpa2zYBqlAdR8xxh-3" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="640" as="sourcePoint" />
+            <mxPoint x="590" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
