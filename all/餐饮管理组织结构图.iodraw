@@ -259,6 +259,9 @@
             <mxPoint x="620" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="kjqXvpa2zYBqlAdR8xxh-4" value="AI&lt;div&gt;助&lt;/div&gt;&lt;div&gt;手&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="910" y="635" width="40" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
