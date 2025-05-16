@@ -262,10 +262,10 @@
         <mxCell id="kjqXvpa2zYBqlAdR8xxh-4" value="AI&lt;div&gt;助&lt;/div&gt;&lt;div&gt;手&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fillColor=#ffffff;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" vertex="1" parent="1">
           <mxGeometry x="900" y="635" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="kjqXvpa2zYBqlAdR8xxh-5" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="kjqXvpa2zYBqlAdR8xxh-4">
+        <mxCell id="kjqXvpa2zYBqlAdR8xxh-6" value="" style="endArrow=none;html=1;labelBackgroundColor=none;strokeColor=#000000;strokeWidth=2;fontFamily=Garamond;fontSize=18;fontColor=#000000;align=center;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="880" y="645" as="sourcePoint" />
-            <mxPoint x="920" y="610" as="targetPoint" />
+            <mxPoint x="880" y="625" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
